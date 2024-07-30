@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at -5.08 -15.74 0)
+		(at 4.445 -6.81 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "9f2d12b3-abdb-471c-b3d2-1e64276b21c4")
@@ -16,7 +16,7 @@
 		)
 	)
 	(property "Value" "SOP-28_DRAM"
-		(at -5.08 -14.24 0)
+		(at 4.445 -5.31 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "95216101-2f85-4e83-ba6c-cd18db12ae81")
@@ -28,7 +28,7 @@
 		)
 	)
 	(property "Footprint" ""
-		(at -5.08 -15.24 0)
+		(at 4.445 -6.31 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -41,7 +41,7 @@
 		)
 	)
 	(property "Datasheet" ""
-		(at -5.08 -15.24 0)
+		(at 4.445 -6.31 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -54,7 +54,7 @@
 		)
 	)
 	(property "Description" ""
-		(at -5.08 -15.24 0)
+		(at 4.445 -6.31 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -180,7 +180,7 @@
 		(uuid "11ca50ea-2819-494a-b306-aa9f8eebfa8f")
 	)
 	(fp_text user "${REFERENCE}"
-		(at -5.08 -12.74 0)
+		(at 4.445 -3.81 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "74a06a1b-f1e8-412d-b73f-623d01e3c3ca")
