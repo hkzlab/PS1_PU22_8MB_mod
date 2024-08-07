@@ -82,7 +82,7 @@
 	(pad "1" thru_hole roundrect
 		(at 0 0)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -92,7 +92,7 @@
 	(pad "2" thru_hole roundrect
 		(at 0 0.8)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -102,7 +102,7 @@
 	(pad "3" thru_hole roundrect
 		(at 0 1.6)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -112,7 +112,7 @@
 	(pad "4" thru_hole roundrect
 		(at 0 2.4)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -122,7 +122,7 @@
 	(pad "5" thru_hole roundrect
 		(at 0 3.2)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -132,7 +132,7 @@
 	(pad "6" thru_hole roundrect
 		(at 0 4)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -142,7 +142,7 @@
 	(pad "7" thru_hole roundrect
 		(at 0 4.8)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -152,7 +152,7 @@
 	(pad "8" thru_hole roundrect
 		(at 0 5.6)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -162,7 +162,7 @@
 	(pad "9" thru_hole roundrect
 		(at 0 6.4)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -172,7 +172,7 @@
 	(pad "10" thru_hole roundrect
 		(at 0 7.2)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -182,7 +182,7 @@
 	(pad "11" thru_hole roundrect
 		(at 0 8)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -192,7 +192,7 @@
 	(pad "12" thru_hole roundrect
 		(at 0 8.8)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -202,7 +202,7 @@
 	(pad "13" thru_hole roundrect
 		(at 0 9.6)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -212,7 +212,7 @@
 	(pad "14" thru_hole roundrect
 		(at 0 10.4)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -222,7 +222,7 @@
 	(pad "15" thru_hole roundrect
 		(at 0 11.2)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -232,7 +232,7 @@
 	(pad "16" thru_hole roundrect
 		(at 0 12)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -242,7 +242,7 @@
 	(pad "17" thru_hole roundrect
 		(at 0 12.8)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -252,7 +252,7 @@
 	(pad "18" thru_hole roundrect
 		(at 0 13.6)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -262,7 +262,7 @@
 	(pad "19" thru_hole roundrect
 		(at 0 14.4)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -272,7 +272,7 @@
 	(pad "20" thru_hole roundrect
 		(at 0 15.2)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -282,7 +282,7 @@
 	(pad "21" thru_hole roundrect
 		(at 0 16)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -292,7 +292,7 @@
 	(pad "22" thru_hole roundrect
 		(at 0 16.8)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -302,7 +302,7 @@
 	(pad "23" thru_hole roundrect
 		(at 0 17.6)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -312,7 +312,7 @@
 	(pad "24" thru_hole roundrect
 		(at 0 18.4)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -322,7 +322,7 @@
 	(pad "25" thru_hole roundrect
 		(at 0 19.2)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -332,7 +332,7 @@
 	(pad "26" thru_hole roundrect
 		(at 0 20)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -342,7 +342,7 @@
 	(pad "27" thru_hole roundrect
 		(at 0 20.8)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -352,7 +352,7 @@
 	(pad "28" thru_hole roundrect
 		(at 0 21.6)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -362,7 +362,7 @@
 	(pad "29" thru_hole roundrect
 		(at 0 22.4)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -372,7 +372,7 @@
 	(pad "30" thru_hole roundrect
 		(at 0 23.2)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -382,7 +382,7 @@
 	(pad "31" thru_hole roundrect
 		(at 0 24)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -392,7 +392,7 @@
 	(pad "32" thru_hole roundrect
 		(at 0 24.8)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -402,7 +402,7 @@
 	(pad "33" thru_hole roundrect
 		(at 0 25.6)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -412,7 +412,7 @@
 	(pad "34" thru_hole roundrect
 		(at 0 26.4)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -422,7 +422,7 @@
 	(pad "35" thru_hole roundrect
 		(at 0 27.2)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -432,7 +432,7 @@
 	(pad "36" thru_hole roundrect
 		(at 9.27 27.2)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -442,7 +442,7 @@
 	(pad "37" thru_hole roundrect
 		(at 9.27 26.4)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -452,7 +452,7 @@
 	(pad "38" thru_hole roundrect
 		(at 9.27 25.6)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -462,7 +462,7 @@
 	(pad "39" thru_hole roundrect
 		(at 9.27 24.8)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -472,7 +472,7 @@
 	(pad "40" thru_hole roundrect
 		(at 9.27 24)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -482,7 +482,7 @@
 	(pad "41" thru_hole roundrect
 		(at 9.27 23.2)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -492,7 +492,7 @@
 	(pad "42" thru_hole roundrect
 		(at 9.27 22.4)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -502,7 +502,7 @@
 	(pad "43" thru_hole roundrect
 		(at 9.27 21.6)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -512,7 +512,7 @@
 	(pad "44" thru_hole roundrect
 		(at 9.27 20.8)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -522,7 +522,7 @@
 	(pad "45" thru_hole roundrect
 		(at 9.27 20)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -532,7 +532,7 @@
 	(pad "46" thru_hole roundrect
 		(at 9.27 19.2)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -542,7 +542,7 @@
 	(pad "47" thru_hole roundrect
 		(at 9.27 18.4)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -552,7 +552,7 @@
 	(pad "48" thru_hole roundrect
 		(at 9.27 17.6)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -562,7 +562,7 @@
 	(pad "49" thru_hole roundrect
 		(at 9.27 16.8)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -572,7 +572,7 @@
 	(pad "50" thru_hole roundrect
 		(at 9.27 16)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -582,7 +582,7 @@
 	(pad "51" thru_hole roundrect
 		(at 9.27 15.2)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -592,7 +592,7 @@
 	(pad "52" thru_hole roundrect
 		(at 9.27 14.4)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -602,7 +602,7 @@
 	(pad "53" thru_hole roundrect
 		(at 9.27 13.6)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -612,7 +612,7 @@
 	(pad "54" thru_hole roundrect
 		(at 9.27 12.8)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -622,7 +622,7 @@
 	(pad "55" thru_hole roundrect
 		(at 9.27 12)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -632,7 +632,7 @@
 	(pad "56" thru_hole roundrect
 		(at 9.27 11.2)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -642,7 +642,7 @@
 	(pad "57" thru_hole roundrect
 		(at 9.27 10.4)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -652,7 +652,7 @@
 	(pad "58" thru_hole roundrect
 		(at 9.27 9.6)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -662,7 +662,7 @@
 	(pad "59" thru_hole roundrect
 		(at 9.27 8.8)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -672,7 +672,7 @@
 	(pad "60" thru_hole roundrect
 		(at 9.27 8)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -682,7 +682,7 @@
 	(pad "61" thru_hole roundrect
 		(at 9.27 7.2)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -692,7 +692,7 @@
 	(pad "62" thru_hole roundrect
 		(at 9.27 6.4)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -702,7 +702,7 @@
 	(pad "63" thru_hole roundrect
 		(at 9.27 5.6)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -712,7 +712,7 @@
 	(pad "64" thru_hole roundrect
 		(at 9.27 4.8)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -722,7 +722,7 @@
 	(pad "65" thru_hole roundrect
 		(at 9.27 4)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -732,7 +732,7 @@
 	(pad "66" thru_hole roundrect
 		(at 9.27 3.2)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -742,7 +742,7 @@
 	(pad "67" thru_hole roundrect
 		(at 9.27 2.4)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -752,7 +752,7 @@
 	(pad "68" thru_hole roundrect
 		(at 9.27 1.6)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -762,7 +762,7 @@
 	(pad "69" thru_hole roundrect
 		(at 9.27 0.8)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
@@ -772,7 +772,7 @@
 	(pad "70" thru_hole roundrect
 		(at 9.27 0)
 		(size 1.8 0.55)
-		(drill 0.51)
+		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.25)
