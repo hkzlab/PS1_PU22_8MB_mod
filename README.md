@@ -10,6 +10,9 @@ By using this project You will agree that I cannot be held responsible if it wil
 
 This daughter board replaces the single main RAM IC on your PU-22 motherboard with 4 2Mx8 ICs, shuffles some address lines and provides your PlayStation with 8MB of addressable memory.
 
+I tested this on my european SCPH-7502 console, with a PU-22 motherboard in it. The board boots fine and all the 8MB are addressable.
+It could work on other models too, but as of now, this is the only tested one.
+
 ## Hardware
 
 The board was designed with [KiCad](https://kicad.org/) EDA.
