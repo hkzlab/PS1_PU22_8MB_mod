@@ -4663,6 +4663,28 @@
 		(layer "Edge.Cuts")
 		(uuid "e34d875b-76b6-4d5b-a442-e123e3c8cf55")
 	)
+	(gr_text "Rev. 1"
+		(at 171.704 80.772 0)
+		(layer "F.SilkS")
+		(uuid "48a9c191-dcb4-45fc-85b8-68caa5715df3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "Designed by Hkz\nhttps://github.com/hkzlab/PS1_PU22_8MB_mod"
+		(at 101.6 79.248 0)
+		(layer "F.SilkS")
+		(uuid "7ca6f407-67d6-4a0b-a580-303772f5b208")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.15)
+			)
+		)
+	)
 	(gr_text "PlayStation\nPU-22 8MB Adapter"
 		(at 149.987 62.738 0)
 		(layer "F.SilkS")
