@@ -1,4 +1,4 @@
-# MSP-MDC Redux
+# PU22 8MB RAM Daughterboard
 
 ## DISCLAIMER
 
