@@ -1,4 +1,4 @@
-# PU22 8MB RAM Daughterboard
+# PlayStation PU-22 8MB RAM Daughterboard
 
 ## DISCLAIMER
 
