@@ -14,6 +14,8 @@ This daughter board replaces the single main RAM IC on your PU-22 motherboard wi
 
 The board was designed with [KiCad](https://kicad.org/) EDA.
 
+The board **MUST** be produced on a flexible PCB!
+
 ### Installation instructions
 
 Disassemble your PlayStation, extract the motherboard and make sure the model is a PU-22.
