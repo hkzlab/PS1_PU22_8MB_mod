@@ -13,6 +13,10 @@ This daughter board replaces the single main RAM IC on your PU-22 motherboard wi
 I tested this on my european SCPH-7502 console, with a PU-22 motherboard in it. The board boots fine and all the 8MB are addressable.
 It could work on other models too, but as of now, this is the only tested one.
 
+### Support
+
+If you wish to support me in building new hardware and software for old machines, [throw a few euros in my direction via Ko-Fi](https://ko-fi.com/hkzlab) ☕!
+
 ## Hardware
 
 The board was designed with [KiCad](https://kicad.org/) EDA.
@@ -59,3 +63,8 @@ You can put tape over the daughterboard too, to avoid shorting, then reassemble 
 | ----------------- | --- | ------------------------------ | -------------------------------------------------------- |
 | C1 - C4           |  4  | 100nF / 1206 / ceramic         |                                                          |
 | U1 - U4           |  4  | KM48V2104ALT-6                 | Compatible memory can be used                            |
+
+### Ordering the boards
+
+You can order the board for this project at [PCBWay](https://www.pcbway.com/project/shareproject/PlayStation_PU_22_8MB_RAM_Daughterboard_6c497b7f.html) and support me or download 
+the gerbers and have them printed wherever you like!!!
